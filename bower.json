@@ -1,0 +1,20 @@
+{
+  "name": "space_s",
+  "version": "0.0.1",
+  "authors": [
+    "(AshleyGlidden <ashley@ashleyglidden.com>)"
+  ],
+  "description": "alternative work space_s",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.12.2"
+  }
+}
